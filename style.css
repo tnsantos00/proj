@@ -1,0 +1,31 @@
+
+h3{
+    margin: 10px;
+    color: rgb(85, 233, 183);
+    background-color: salmon;
+    border: 2px solid black;
+}
+
+.first-title{
+    color: brown;
+}
+
+#youtube-link{
+    color: rgb(105, 231, 94);
+}
+
+* {
+    margin: 0;
+    font-size: 20px;
+    background-color: rgb(202, 236, 247);
+    padding: 0;
+    box-sizing: border-box;
+   
+}
+
+button {
+    margin: 10px;
+    padding: 50px;
+    box-sizing: border-box;
+background-color: rgb(105, 231, 94);}
+
